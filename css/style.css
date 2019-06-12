@@ -7,7 +7,10 @@
     text-align: center;
 }
 
-h4{
+body h4{
     color: red;
 }
 
+h1{
+    color: red;
+}
