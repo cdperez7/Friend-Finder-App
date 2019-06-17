@@ -18,7 +18,6 @@ npm install
 
  # Technologies Used: 
  
- * Bullet list
  * Javascript
  * Jquery
  * node.js
