@@ -16,7 +16,9 @@ git clone https://github.com/cdperez7/Friend-Finder-App
 cd friend-finder-app
 npm install
 
- Markup : * Bullet list
+ # Technologies Used: 
+ 
+ * Bullet list
             * Javascript
             * Jquery
             * node.js
