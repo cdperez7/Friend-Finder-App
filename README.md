@@ -19,9 +19,9 @@ npm install
  # Technologies Used: 
  
  * Bullet list
-            * Javascript
-            * Jquery
-            * node.js
-            * Express.js
-            * HTML
-            * Bootstrap
+ * Javascript
+ * Jquery
+ * node.js
+ * Express.js
+ * HTML
+ * Bootstrap
