@@ -34,6 +34,8 @@ The following two photos show how the information is stored in the back end (bot
 
 ![ff4](https://i.imgur.com/81Azlzb.png)
 
+![ff5](https://i.imgur.com/DqxIP9i.png)
+
  # Technologies Used: 
  
  * Javascript
