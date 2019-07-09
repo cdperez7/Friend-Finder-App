@@ -8,9 +8,35 @@
 }
 
 body h4{
+    color: yellow;
+}
+
+body h3{
     color: red;
 }
 
 h1{
     color: red;
+}
+
+p{
+    color: red;
+}
+
+.btn{
+    color: white;
+    background-color: red;
+}
+
+a{
+    color: red;
+}
+
+body{
+    background-image: url("https://images.alphacoders.com/220/thumb-1920-220983.jpg");
+    height: 100%;
+}
+
+.bottom{
+    bottom:0;
 }

@@ -5,7 +5,9 @@ var path = require("path");
 
 var PORT = process.env.PORT || 8080;
 
-app.use(express.static(__dirname + '/app/css'));
+// app.use(express.static(__dirname + '/css'));
+app.use('/css',express.static(__dirname +'/css'));
+
 
 
 app.use(bodyParser.json());
