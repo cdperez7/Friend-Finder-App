@@ -30,6 +30,10 @@ Once the user has entered their information, their responses and image are store
 
 ![ff3](https://i.imgur.com/XxL5JD5.png)
 
+The following two photos show how the information is stored in the back end (both the pre-populated characters as well as information entered by new users to this app)
+
+![ff4](https://i.imgur.com/81Azlzb.png)
+
  # Technologies Used: 
  
  * Javascript
