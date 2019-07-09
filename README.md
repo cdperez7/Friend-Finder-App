@@ -22,6 +22,10 @@ Once navigating from the home page, the user enters in their personal responses 
 
 ![ff1](https://i.imgur.com/HrFuXdu.png)
 
+After completing the survey and clicking submit, the application will match you with your new best friend based on your answers.
+
+![ff2](https://i.imgur.com/XAEMD9a.png)
+
  # Technologies Used: 
  
  * Javascript
