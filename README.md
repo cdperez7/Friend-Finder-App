@@ -26,6 +26,10 @@ After completing the survey and clicking submit, the application will match you 
 
 ![ff2](https://i.imgur.com/XAEMD9a.png)
 
+Once the user has entered their information, their responses and image are stored within the backend API and can then be matched with future users. In the following photo, you can see that my newest entry matched with myself and the new information/photo I entered.
+
+![ff3](https://i.imgur.com/XxL5JD5.png)
+
  # Technologies Used: 
  
  * Javascript
